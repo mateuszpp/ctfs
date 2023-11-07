@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "pointeroverflowctf/We Rest Upon a Single Hope.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "pointeroverflowctf/We Rest Upon a Single Hope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "pointeroverflowctf/We Rest Upon a Single Hope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "pointeroverflowctf/We Rest Upon a Single Hope.md"
               }
             }
           }
@@ -157,6 +157,28 @@
   },
   "active": "f4615d00583e2669",
   "lastOpenFiles": [
-    "readme.md"
+    "pointeroverflowctf/Vigil of the Ceaseless Eyes.md",
+    "pointeroverflowctf/This Fellow is Dancing Mad!.md",
+    "pointeroverflowctf/Quantity is Not Abundance.md",
+    "pointeroverflowctf/If You Don't, Remember Me.md",
+    "pointeroverflowctf/Here You See A Passer By.md",
+    "pointeroverflowctf/Absence Makes Hearts Go Yonder.md",
+    "pointeroverflowctf/A Petty Wage in Regret.md",
+    "readme.md",
+    "Pasted image 20231106005540.png",
+    "Pasted image 20231106004641.png",
+    "Pasted image 20231106004228.png",
+    "Pasted image 20231106004159.png",
+    "Pasted image 20231106003638.png",
+    "Pasted image 20231106003428.png",
+    "Pasted image 20231106002850.png",
+    "Pasted image 20231106002845.png",
+    "Pasted image 20231105203820.png",
+    "Pasted image 20231105201904.png",
+    "pointeroverflowctf/We Rest Upon a Single Hope.md",
+    "pointeroverflowctf",
+    "PointerOverflowCtf/A petty wage in regret.md",
+    "Pasted image 20231106004159.png.md",
+    "PointerOverflowCtf"
   ]
 }

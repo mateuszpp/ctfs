@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pointeroverflowctf/A Petty Wage in Regret.md",
+                "file": "picoCTF_picoGYM/Transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "558563f08211adf1",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pointeroverflowctf/A Petty Wage in Regret.md",
+                "file": "picoCTF_picoGYM/Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pointeroverflowctf/A Petty Wage in Regret.md",
+                "file": "picoCTF_picoGYM/Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pointeroverflowctf/A Petty Wage in Regret.md"
+                "file": "picoCTF_picoGYM/Transformation.md"
               }
             }
           }
@@ -155,14 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad0ee5b62e2319a",
+  "active": "f4615d00583e2669",
   "lastOpenFiles": [
+    "picoCTF_picoGYM/Stonks.md",
+    "picoCTF_picoGYM/Transformation.md",
+    "picoCTF_picoGYM/Mind your Ps and Qs.md",
+    "picoCTF_picoGYM/Cookies.md",
+    "Untitled.md",
+    "picoCTF_picoGYM",
+    "pointeroverflowctf/A Petty Wage in Regret.md",
     "Pasted image 20231106004159.png",
     "Pasted image 20231106004228.png",
     "Pasted image 20231106004641.png",
     "Pasted image 20231106005540.png",
     "Pasted image 20231105183449.png",
-    "pointeroverflowctf/A Petty Wage in Regret.md",
     "pointeroverflowctf/Absence Makes Hearts Go Yonder.md",
     "pointeroverflowctf/Here You See A Passer By.md",
     "pointeroverflowctf/If You Don't, Remember Me.md",
@@ -176,7 +182,6 @@
     "Pasted image 20231106002850.png",
     "Pasted image 20231106002845.png",
     "Pasted image 20231105203820.png",
-    "Pasted image 20231105201904.png",
     "pointeroverflowctf",
     "PointerOverflowCtf/A petty wage in regret.md",
     "Pasted image 20231106004159.png.md",

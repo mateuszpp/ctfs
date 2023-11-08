@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF_picoGYM/Transformation.md",
+                "file": "picoCTF_picoGYM/matryoshka doll.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF_picoGYM/Transformation.md",
+                "file": "picoCTF_picoGYM/matryoshka doll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF_picoGYM/Transformation.md",
+                "file": "picoCTF_picoGYM/matryoshka doll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF_picoGYM/Transformation.md"
+                "file": "picoCTF_picoGYM/matryoshka doll.md"
               }
             }
           }
@@ -157,25 +157,28 @@
   },
   "active": "f4615d00583e2669",
   "lastOpenFiles": [
-    "picoCTF_picoGYM/Stonks.md",
-    "picoCTF_picoGYM/Transformation.md",
-    "picoCTF_picoGYM/Mind your Ps and Qs.md",
+    "picoCTF_picoGYM/crackme.py.md",
+    "picoCTF_picoGYM/matryoshka doll.md",
+    "picoCTF_picoGYM/keygenme-py.md",
     "picoCTF_picoGYM/Cookies.md",
+    "picoCTF_picoGYM/Transformation.md",
+    "picoCTF_picoGYM/Stonks.md",
+    "picoCTF_picoGYM/Mind your Ps and Qs.md",
+    "pointeroverflowctf/We Rest Upon a Single Hope.md",
+    "pointeroverflowctf/If You Don't, Remember Me.md",
+    "pointeroverflowctf/Absence Makes Hearts Go Yonder.md",
+    "pointeroverflowctf/A Petty Wage in Regret.md",
+    "pointeroverflowctf/Here You See A Passer By.md",
+    "pointeroverflowctf/Quantity is Not Abundance.md",
+    "pointeroverflowctf/Vigil of the Ceaseless Eyes.md",
     "Untitled.md",
     "picoCTF_picoGYM",
-    "pointeroverflowctf/A Petty Wage in Regret.md",
     "Pasted image 20231106004159.png",
     "Pasted image 20231106004228.png",
     "Pasted image 20231106004641.png",
     "Pasted image 20231106005540.png",
     "Pasted image 20231105183449.png",
-    "pointeroverflowctf/Absence Makes Hearts Go Yonder.md",
-    "pointeroverflowctf/Here You See A Passer By.md",
-    "pointeroverflowctf/If You Don't, Remember Me.md",
-    "pointeroverflowctf/Quantity is Not Abundance.md",
-    "pointeroverflowctf/Vigil of the Ceaseless Eyes.md",
     "pointeroverflowctf/This Fellow is Dancing Mad!.md",
-    "pointeroverflowctf/We Rest Upon a Single Hope.md",
     "readme.md",
     "Pasted image 20231106003638.png",
     "Pasted image 20231106003428.png",

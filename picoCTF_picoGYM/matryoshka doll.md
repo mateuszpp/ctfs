@@ -6,5 +6,5 @@ for that reason i used binwalk to extract another file from inside, based on the
 ```
 binwalk -e dolls.jpg
 ```
-p�i�c�o�C�T�F�{�e�3�f�3�7�8�f�e�6�c�1�e�a�7f6bc5ac2c3d6801c1f}
+picoCTF{e3f378fe6c1ea7f6bc5ac2c3d6801c1f}
 

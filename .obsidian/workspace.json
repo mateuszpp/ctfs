@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF_picoGYM/Untitled.md",
+                "file": "picoCTF_picoGYM/The numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF_picoGYM/Untitled.md",
+                "file": "picoCTF_picoGYM/The numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF_picoGYM/Untitled.md",
+                "file": "picoCTF_picoGYM/The numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF_picoGYM/Untitled.md"
+                "file": "picoCTF_picoGYM/The numbers.md"
               }
             }
           }
@@ -167,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6734bebb745a42e",
+  "active": "aad0ee5b62e2319a",
   "lastOpenFiles": [
+    "picoCTF_picoGYM/theNumbers.md",
+    "picoCTF_picoGYM/The numbers.md",
+    "readme.md",
     "Pasted image 20231109221717.png",
-    "picoCTF_picoGYM/Scavenger Hunt.md",
     "picoCTF_picoGYM/Untitled.md",
+    "picoCTF_picoGYM/Scavenger Hunt.md",
     "picoCTF_picoGYM/shop.md",
     "picoCTF_picoGYM/Mind your Ps and Qs.md",
     "picoCTF_picoGYM/Cookies.md",
@@ -184,8 +187,6 @@
     "picoCTF_picoGYM/Transformation.md",
     "picoCTF_picoGYM/tunnel vision.md",
     "picoCTF_picoGYM/wireshark doo doo.md",
-    "The numbers.md",
-    "readme.md",
     "pointeroverflowctf/We Rest Upon a Single Hope.md",
     "pointeroverflowctf/If You Don't, Remember Me.md",
     "pointeroverflowctf/Absence Makes Hearts Go Yonder.md",
@@ -204,7 +205,6 @@
     "Pasted image 20231106003428.png",
     "Pasted image 20231106002850.png",
     "Pasted image 20231106002845.png",
-    "Pasted image 20231105203820.png",
     "pointeroverflowctf",
     "PointerOverflowCtf/A petty wage in regret.md",
     "PointerOverflowCtf"

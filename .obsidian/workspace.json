@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF_picoGYM/The numbers.md",
+                "file": "picoCTF_picoGYM/new caesar.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF_picoGYM/The numbers.md",
+                "file": "picoCTF_picoGYM/new caesar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF_picoGYM/The numbers.md",
+                "file": "picoCTF_picoGYM/new caesar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF_picoGYM/The numbers.md"
+                "file": "picoCTF_picoGYM/new caesar.md"
               }
             }
           }
@@ -167,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad0ee5b62e2319a",
+  "active": "b6734bebb745a42e",
   "lastOpenFiles": [
-    "picoCTF_picoGYM/theNumbers.md",
     "picoCTF_picoGYM/The numbers.md",
+    "picoCTF_picoGYM/new caesar.md",
+    "picoCTF_picoGYM/glory of the garden.md",
+    "picoCTF_picoGYM/theNumbers.md",
     "readme.md",
     "Pasted image 20231109221717.png",
     "picoCTF_picoGYM/Untitled.md",
@@ -179,7 +181,6 @@
     "picoCTF_picoGYM/Mind your Ps and Qs.md",
     "picoCTF_picoGYM/Cookies.md",
     "picoCTF_picoGYM/crackme.py.md",
-    "picoCTF_picoGYM/glory of the garden.md",
     "picoCTF_picoGYM/keygenme-py.md",
     "picoCTF_picoGYM/matryoshka doll.md",
     "picoCTF_picoGYM/speeds and feeds.md",
@@ -206,7 +207,6 @@
     "Pasted image 20231106002850.png",
     "Pasted image 20231106002845.png",
     "pointeroverflowctf",
-    "PointerOverflowCtf/A petty wage in regret.md",
     "PointerOverflowCtf"
   ]
 }
